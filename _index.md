@@ -3,6 +3,8 @@ title: Scientific Python Ecosystem Coordination
 hide_meta: true
 ---
 
+trivial change for PR illustrative purpose.
+
 SPECs provide recommendations for projects in the scientific Python ecosystem.
 Not all recommendations apply to all projects.
 All community members and ecosystem projects are welcome to participate in the SPEC process.
